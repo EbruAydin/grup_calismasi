@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class age {
 
      /*
+     biz calisiyoruz
         Given a int ,
             if the age less then and equal 10
                 print  too young to create a facebook account
